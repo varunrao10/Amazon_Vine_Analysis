@@ -5,7 +5,7 @@
 **Deliverable 1:** [Amazon_Reviews_ETL](Amazon_Reviews_ETL.ipynb)
 **Deliverable 2:** [Vine_Review_Analysis](Vine_Review_Analysis.ipynb)
 
-## Overview of Pewlett-Hackard-Analysis:
+## Overview of Amazon-Vine-Analysis:
 The purpose of this analysis is to pick a dataset, use PySpark to perform the ETL process and connect to the AWS RDS instance and then load and transform the data into the pgadmin database.
 
 ## Results:
